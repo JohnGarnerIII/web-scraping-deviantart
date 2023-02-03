@@ -20,3 +20,6 @@ if response.status_code == 200:
 # handle unsuccessful requests
 else:
     print("Failed to fetch the page")
+
+
+#Testing new git commits with VSCode
